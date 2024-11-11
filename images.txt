@@ -1,1 +1,3 @@
-onlyoffice/documentserver:latest
+#onlyoffice/documentserver:latest
+onlyoffice/mailserver:latest
+onlyoffice/communityserver:latest
