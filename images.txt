@@ -1,4 +1,12 @@
 #onlyoffice/documentserver:latest
 #onlyoffice/mailserver:latest
 #onlyoffice/communityserver:latest
-rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.3.0
+#rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.3.0
+rancher/mirrored-prometheus-alertmanager:v0.24.0
+rancher/kubectl:v1.20.2
+rancher/mirrored-library-nginx:1.24.0-alpine
+rancher/mirrored-prometheus-prometheus:v2.38.0
+rancher/mirrored-prometheus-operator-prometheus-operator:v0.59.1
+rancher/mirrored-prometheus-operator-prometheus-config-reloader:v0.59.1
+rancher/mirrored-thanos-thanos:v0.28.0
+rancher/shell:v0.1.25
