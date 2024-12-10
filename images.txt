@@ -12,4 +12,5 @@
 #rancher/shell:v0.1.25
 
 #styletang/rocketmq-console-ng
-minio/minio
+#minio/minio
+keking/kkfileview:4.1.0
