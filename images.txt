@@ -16,4 +16,5 @@
 #keking/kkfileview:4.1.0
 #lwolf/helm-kubectl-docker
 #keking/kkfileview-base:4.4.0
-keking/kkfileview-jdk:latest
+#keking/kkfileview-jdk:latest
+ubuntu:24.04
