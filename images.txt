@@ -14,4 +14,5 @@
 #styletang/rocketmq-console-ng
 #minio/minio
 #keking/kkfileview:4.1.0
-lwolf/helm-kubectl-docker
+#lwolf/helm-kubectl-docker
+keking/kkfileview-base:4.4.0
