@@ -17,4 +17,5 @@
 #lwolf/helm-kubectl-docker
 #keking/kkfileview-base:4.4.0
 #keking/kkfileview-jdk:latest
-ubuntu:24.04
+#ubuntu:24.04
+xuxueli/xxl-job-admin
