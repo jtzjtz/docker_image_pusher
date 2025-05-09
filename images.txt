@@ -18,4 +18,7 @@
 #keking/kkfileview-base:4.4.0
 #keking/kkfileview-jdk:latest
 #ubuntu:24.04
-xuxueli/xxl-job-admin:2.4.0
+#xuxueli/xxl-job-admin:2.4.0
+
+nacos/nacos-server:2.3.0
+
