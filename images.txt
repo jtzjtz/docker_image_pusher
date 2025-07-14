@@ -20,5 +20,6 @@
 #ubuntu:24.04
 #xuxueli/xxl-job-admin:2.4.0
 
-apache/nacos-server:2.3.0
+#apache/nacos-server:2.3.0
+redis/redis:8.0.4
 
