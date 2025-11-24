@@ -21,5 +21,6 @@
 #xuxueli/xxl-job-admin:2.4.0
 
 #apache/nacos-server:2.3.0
-redislabs/redis:latest
+#redislabs/redis:latest
+openjdk:8-jdk-alpine
 
