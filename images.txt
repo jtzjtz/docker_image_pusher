@@ -22,4 +22,5 @@
 
 #apache/nacos-server:2.3.0
 #redislabs/redis:latest
-swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/openjdk:8-jdk-alpine
+#swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/openjdk:8-jdk-alpine
+docker.io/mysql:8.0.42
